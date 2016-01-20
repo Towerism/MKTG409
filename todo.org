@@ -1,1 +1,16 @@
-* <2016-01-19 Tue>
+#+CATEGORY: MKTG 409
+* DONE Watch introduction
+<2016-01-19 Tue>
+CLOSED: [2016-01-20 Wed 00:53]
+* TODO Sign up for research surveys
+SCHEDULED: <2016-01-22 Wed>--<2016-05-01 Sun>
+* TODO Weekly discipline [0%]
+SCHEDULED: <2016-01-22 Fri +1w>
+- [ ] Read chapters
+  - [ ] First chapter
+  - [ ] Second chapter
+- [ ] Watch lectures
+  - [ ] First chapter
+  - [ ] Second chapter
+- [ ] Take notes
+- [ ] Take quiz
