@@ -3,7 +3,7 @@
 <2016-01-19 Tue>
 CLOSED: [2016-01-20 Wed 00:53]
 * TODO Sign up for research surveys
-SCHEDULED: <2016-01-22 Wed>--<2016-05-01 Sun>
+SCHEDULED: <2016-01-27 Mon +1w>
 * TODO Weekly discipline [0%]
 SCHEDULED: <2016-01-22 Fri +1w>
 - [ ] Read chapters
