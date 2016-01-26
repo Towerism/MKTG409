@@ -1,7 +1,7 @@
-* MKTG 409-599
-** Chapter 1
-*** Marketing Insights
-**** Publix Super Markets
+MKTG 409-599
+* Chapter 1
+** Marketing Insights
+*** Publix Super Markets
 - Maintains high profitability by being consumer-centric
 - With excellent customer service, they are able to beat Walmart on value
   according to many consumers.
@@ -14,17 +14,17 @@
   success:
   - competition from marketers of similar products,
   - economic conditions, etc.
-*** Defining Marketing
-- Marketing is the process of doing certain things to
+** Defining Marketing
+*** Marketing is the process of doing certain things to
   - facilitate satisfying exchange relations with customers, and
   - develop and maintain favorable relationships with stakeholders in a dynamic
     environment.
-- To accomplish this markets manipulate goods and services by
+*** To accomplish this markets manipulate goods and services by
   - creating them,
   - distributing them,
   - promoting them, and
   - pricing them
-- The customer is the focal point
+*** The customer is the focal point
   - The essence of marketing is to develop satisfying exchanges from which both
     customers and marketers benefit
   - Customers develop expectations about the seller through buyer-seller interaction
@@ -35,23 +35,23 @@
     - Sometimes multiple markets are targeted
       - with different products, promotions, prices, and distribution systems
         for each one
-*** Marketing deals with products, distribution, promotion, and price
-- More than simply advertising or selling a product
-  - Marketing involves developing and managing a product that will satisfy customer needs
-    - Location
-    - Price
-    - Relevant information (Does this product satisfy my needs?)
-  - Planning, organization, implemntation, and control are necessary to meet the
-    needs of customers within the target market
-  - Marketing mix (built around the customer)
-    - Product
-      - A good, service, or an idea
-      - With successful marketing efforts, the product can become part of
-        everyday life
-      - Necessary to research customers' needs and wants and design a product
-        that satisfies them
-    - Pricing
-    - Distribution
-    - Promotion
-  - The right mix of these elements is needed to satisy customers' needs
+** Marketing deals with products, distribution, promotion, and price
+*** More than simply advertising or selling a product
+**** Marketing involves developing and managing a product that will satisfy customer needs
+  - Location
+  - Price
+  - Relevant information (Does this product satisfy my needs?)
+**** Planning, organization, implemntation, and control are necessary to meet the
+  needs of customers within the target market
+**** Marketing mix (built around the customer)
+  - Product
+    - A good, service, or an idea
+    - With successful marketing efforts, the product can become part of
+      everyday life
+    - Necessary to research customers' needs and wants and design a product
+      that satisfies them
+  - Pricing
+  - Distribution
+  - Promotion
+**** The right mix of these elements is needed to satisy customers' needs
 
